@@ -1,0 +1,103 @@
+header {
+    background-color: salmon;
+    text-align: center;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header ul {
+    list-style-type: none;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+header li {
+    display: inline;
+    padding-inline: 50px;
+}
+
+header a {
+    font-size: 20px;
+}
+
+
+a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+a:visited {
+    color: whitesmoke;
+}
+
+a:hover {
+    color: wheat;
+    text-decoration: underline;
+}
+
+#sobre img {
+    object-position: center;
+    display: block;
+    margin: auto;
+}
+
+#sobre p {
+    text-align: justify;
+    font-size: 20px;
+}
+
+main {
+    margin: 0px 10%;
+}
+
+
+h2 {
+    font-size: 30px;
+    border-bottom-style: solid;
+}
+
+#educacao table {
+    text-align: center;
+    width: 100%;
+    font-size: 18px;
+    border-collapse: collapse;
+}
+
+#educacao th,
+#educacao td {
+    border: solid 1px grey;
+    height: 40px;
+}
+
+#educacao th {
+    background-color: whitesmoke;
+}
+
+h3 {
+    color: darkblue;
+}
+
+li {
+    list-style-type: square;
+    font-size: 17px;
+}
+
+p {
+    font-size: 17px;
+}
+
+#contato a {
+    color: blue;
+}
+
+footer {
+    background-color: salmon;
+    text-align: center;
+}
+
+footer p {
+    color: whitesmoke;
+}
